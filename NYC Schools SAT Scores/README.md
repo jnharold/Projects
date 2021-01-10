@@ -1,3 +1,6 @@
+Note:  This notebook contains Folium maps that do not render naitively on GitHub.  Simply drop the github link in nbviewer to view the notebook in full:
+https://nbviewer.jupyter.org
+
 # Exploring The Causes of SAT Performance in NYC Public Schools
 
 The quality of education and causes of disparity in public school performance has always been a top priority of parents, education administrators, and elected offcials.  New York City is home to the largest public school system in the United States with over 1 million students and a budget of over $30 billion.  Here we will look at various demographic metrics and evaluate their impact on SAT scores.  
