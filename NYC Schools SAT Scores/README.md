@@ -1,5 +1,5 @@
-Note:  This notebook contains Folium maps that do not render naitively on GitHub.  Simply drop the github link in nbviewer to view the notebook in full:
-https://nbviewer.jupyter.org
+Note:  This notebook contains Folium maps that do not render naitively on GitHub.  To view the notebook in full click here:
+https://nbviewer.jupyter.org/github/jnharold/Projects/blob/main/NYC%20Schools%20SAT%20Scores/NYC%20Schools.ipynb
 
 # Exploring The Causes of SAT Performance in NYC Public Schools
 
