@@ -1,3 +1,6 @@
+Jupyter Notebook may not render properly in GitHub.  Here is a link to view it using NBViewer:
+https://nbviewer.jupyter.org/github/jnharold/Projects/blob/main/Star%20Wars%20Survey/Star%20Wars%20Survey.ipynb
+
 # <center>Analyzing Star Wars Survey Data</center>
 
 We will be analysing data from a poll of over 1100 Star Wars fans. The website FiveThirtyEight ran the poll before the release of the release of *Star Wars: The Force Awakens*.  The poll collected demographic data of the respondants as well favorite characters, ranking their favorite Star Wars movie, and more.  
