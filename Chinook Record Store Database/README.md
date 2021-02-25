@@ -1,4 +1,5 @@
-Jupyter Notebook Viewer Link: https://nbviewer.jupyter.org/github/jnharold/Projects/blob/main/Chinook%20Record%20Store%20Database/SQL%20Chinook%20Record%20Store%20DB.ipynb
+Jupyter Notebook Viewer link: 
+https://nbviewer.jupyter.org/github/jnharold/Projects/blob/main/Chinook%20Record%20Store%20Database/SQL%20Chinook%20Record%20Store%20DB.ipynb
 
 # <center>Chinook Records Store Database</center>
 
