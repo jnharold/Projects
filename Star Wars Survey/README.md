@@ -1,4 +1,4 @@
-Jupyter Notebook may not render properly in GitHub.  Here is a link to view it using NBViewer:
+Jupyter Notebook Viewer link:
 https://nbviewer.jupyter.org/github/jnharold/Projects/blob/main/Star%20Wars%20Survey/Star%20Wars%20Survey.ipynb
 
 # <center>Analyzing Star Wars Survey Data</center>
