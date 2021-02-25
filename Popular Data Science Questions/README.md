@@ -1,4 +1,4 @@
-Jupyter notebook may not render properly in Github.  Here is a link to view it using NBViewer:
+Jupyter Notebook Viewer link:
 https://nbviewer.jupyter.org/github/jnharold/Projects/blob/main/Popular%20Data%20Science%20Questions/Popular%20Data%20Science%20Questions.ipynb
 
 # <center> Deep Learning:   A Fad or Here To Stay?</center>
