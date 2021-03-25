@@ -1,3 +1,5 @@
+View in NBViewer: https://nbviewer.jupyter.org/github/jnharold/Projects/blob/main/Best%20Markets%20To%20Advertise%20In/Best%20Markets%20To%20Advertise%20In.ipynb
+
 # Finding The Best Markets To Advertise In
 
 For this project we will take the role of a data analyst who works for an e-learning company.  While the company focuses on courses in web and mobile development, it also offers programs in data science and game development.  The company wants to invest in advertisement and wants to know what the two best markets are to invest in.
